@@ -1,0 +1,27 @@
+        -:    0:Source:test/bank_test.c
+        -:    0:Graph:bank_test.gcno
+        -:    0:Data:bank_test.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1://unittest will be added here
+        -:    2:#include"unity_internals.h"
+        -:    3:#include"unity.h"
+        -:    4:#include"bank.h"
+        -:    5:
+        1:    6:void setUp(void)
+        -:    7:{
+        1:    8:}
+        1:    9:void tearDown(void)
+        -:   10:{
+        1:   11:}
+        -:   12:
+        1:   13:void test_interest(){
+        1:   14:    TEST_ASSERT_EQUAL(10, interest(1,1000,1));
+        1:   14-block  0
+        1:   15:}
+        1:   16:int main(){
+        1:   17:    UNITY_BEGIN();
+        1:   17-block  0
+        1:   18:    RUN_TEST(test_interest);
+        1:   19:    return (UNITY_END());
+        -:   20:}
