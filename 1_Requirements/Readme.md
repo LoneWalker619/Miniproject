@@ -35,11 +35,6 @@ Defining our system:
    3.Save record to file
    4.Read record from file
 
-SWOT ANLYSIS:
-                    
-https://github.com/saipoor/miniproject/blob/main/Requirements/swot.png
-
-4W's and 1'H
 
 Who:
    In this pandemic situation,Many people who are effected with covid , people who are suffering with health problems and due to lockdown people cannot go to bank.so,online bank management system will be usefull to them to see their transactions etc.
