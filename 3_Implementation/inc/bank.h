@@ -1,9 +1,9 @@
 /**
  * @bank.h
- * @author Lingala sai poornima(https://github.com/saipoor/miniproject)
+ * @author Sourav Sudarshan(https://github.com/LoneWalker619/Miniproject)
  * @brief This program is for including function prototypes.
  * @version 0.1
- * @date 2021-04-014
+ * @date 2021-06-20
  * 
  * @copyright Copyright (c) 2021
  * 
