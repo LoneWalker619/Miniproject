@@ -5,6 +5,8 @@ SDLC ACTIVITY BASED LEARNING
 
 PROJECT : ONLINE BANK MANAGEMENT SYSTEM
 
+| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4567029d2b69481c8da44a07ba64c3bf)](https://www.codacy.com/gh/LoneWalker619/Miniproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LoneWalker619/Miniproject&amp;utm_campaign=Badge_Grade) |
+
 FOLDER STRUCTURE:
   |       Folder        |            Description                         |
   |:--------------------|:-----------------------------------------------|
