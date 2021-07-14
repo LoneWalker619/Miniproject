@@ -1,4 +1,7 @@
 # Miniproject
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/69744c9aba4c47d692812ad282ea869b)](https://app.codacy.com/gh/LoneWalker619/Miniproject?utm_source=github.com&utm_medium=referral&utm_content=LoneWalker619/Miniproject&utm_campaign=Badge_Grade_Settings)
+
 LTTS Miniproject 
  
 SDLC ACTIVITY BASED LEARNING
