@@ -19,6 +19,12 @@ FOLDER STRUCTURE:
   |3.implementation     |All code and documentation                      |
   |4.Testplan           |Documents with test plans and procedures        |
   
+  Challenges Faced:
+|No.|	Challenge	|Solution|
+|---|---------------|--------|
+|1.|gcov generating *.gcda and *.gcno files in different directory than object file|added  steps in make file under coverage  and ran coverage then deleted all the unnecessary files.|
+|2.|After program shutdown, not able to recover recorded data.|To solve problem file system is implemented|
+  
 
  |Feature Id	|Feature|
  |--------------|-------|
