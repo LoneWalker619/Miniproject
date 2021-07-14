@@ -19,7 +19,7 @@ void see(void)
             {   system("cls");
                 test=1;
 
-                printf("\nAccount NO.:%d\nName:%s \nDOB:%d/%d/%d \nAge:%d \nAddress:%s \nCitizenship No:%s \nPhone number:%.0lf \nType Of Account:%s \nAmount deposited:$ %.2f \nDate Of Deposit:%d/%d/%d\n\n",ad.account_no,ad.name,ad.dob.m,ad.dob.d,ad.dob.y,ad.age,ad.address,ad.aadhar_no,ad.phone,
+                printf("\nAccount NO.:%d\nName:%s \nDOB:%d/%d/%d \nAge:%d \nAddress:%s \nCitizenship No:%s \nPhone number:%.0lf \nType Of Account:%s \nAmount deposited:Rs %.2f \nDate Of Deposit:%d/%d/%d\n\n",ad.account_no,ad.name,ad.dob.m,ad.dob.d,ad.dob.y,ad.age,ad.address,ad.aadhar_no,ad.phone,
                 ad.account_type,ad.amt,ad.deposit.m,ad.deposit.d,ad.deposit.y);
                 if(strcmp(ad.account_type,"fixed1")==0)
                     {
