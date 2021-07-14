@@ -1,14 +1,15 @@
 # Miniproject
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/69744c9aba4c47d692812ad282ea869b)](https://app.codacy.com/gh/LoneWalker619/Miniproject?utm_source=github.com&utm_medium=referral&utm_content=LoneWalker619/Miniproject&utm_campaign=Badge_Grade_Settings)
-
 LTTS Miniproject 
  
 SDLC ACTIVITY BASED LEARNING
 
 PROJECT : ONLINE BANK MANAGEMENT SYSTEM
 
-| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4567029d2b69481c8da44a07ba64c3bf)](https://www.codacy.com/gh/LoneWalker619/Miniproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LoneWalker619/Miniproject&amp;utm_campaign=Badge_Grade) | [![C/C++ CI](https://github.com/LoneWalker619/Miniproject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/LoneWalker619/Miniproject/actions/workflows/c-cpp.yml) |
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+------|----------|-------|--------------
+[![C/C++ CI](https://github.com/LoneWalker619/Miniproject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/LoneWalker619/Miniproject/actions/workflows/c-cpp.yml) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/69744c9aba4c47d692812ad282ea869b)](https://app.codacy.com/gh/LoneWalker619/Miniproject?utm_source=github.com&utm_medium=referral&utm_content=LoneWalker619/Miniproject&utm_campaign=Badge_Grade_Settings)  [![CI-Coverage](https://github.com/LoneWalker619/Miniproject/actions/workflows/gcov.yml/badge.svg)](https://github.com/LoneWalker619/Miniproject/actions/workflows/gcov.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/LoneWalker619/Miniproject/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/LoneWalker619/Miniproject/actions/workflows/CodeQuality_Dynamic.yml)| [![Unit Testing - Unity](https://github.com/LoneWalker619/Miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/LoneWalker619/Miniproject/actions/workflows/unity.yml)| [![Contribution Check - Git Inspector](https://github.com/LoneWalker619/Miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/LoneWalker619/Miniproject/actions/workflows/gitinspector.yml)
+
+
 
 FOLDER STRUCTURE:
   |       Folder        |            Description                         |
@@ -18,10 +19,6 @@ FOLDER STRUCTURE:
   |3.implementation     |All code and documentation                      |
   |4.Testplan           |Documents with test plans and procedures        |
   
-Contributors List and Summary:
-|SF Id.|Name|Features|Issuess Raised|Issues Resolved|No. of TestCases|Test Case|
-|:-----|:---|:-------|:-------------|:--------------|:-----------|:--------|
-|311173|Sourav Sudarshan| |||||
 
  |Feature Id	|Feature|
  |--------------|-------|
