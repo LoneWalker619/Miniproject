@@ -19,12 +19,6 @@ Today’s online banking customers enjoy instant access from their computer or m
 4.Anytime anywhere benefit: 
      One of the biggest benefits of online banking is its round-the-clock access. The 24x7 anytime and anywhere access means that you can manage your transactions easily from the comfort of your office or home. The time saved could help improve productivity by allowing you to spend it on other essential business activities.
          
-Cost and Features with Time:
-  
-  | Time | cost | Feature |
-  |------| -----|---------|
-  | 10   |      |         |
-  
 Defining our system:
    Online bank management system consists of different functions.They are creating new account,to perform different transactions online like deposit and withdraw amount etc.,to check the details of exisisting account,to see the simple interest of amount.
 
